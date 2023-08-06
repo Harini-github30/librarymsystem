@@ -1,3 +1,7 @@
-# Library Management System
+**Library Management System:**
+            The Library Management System is a Python Flask-based web application that provides comprehensive features for efficient library management. This system enables librarians and administrators to handle various tasks with ease, such as book management, user administration, and more.
 
-A Python Flask based Library Management System. This Flask app has all the features of a Library Management System like adding, removing, and creating copies of books. This app has a separate admin tab for admin users. Now also has admin support for users.
+**Features:**
+            Add, remove, and create copies of books to manage the library's collection effectively.
+Dedicated admin tab with special privileges for admin users, enabling streamlined system management.
+Recently enhanced with admin support for managing users, making it even more versatile.
